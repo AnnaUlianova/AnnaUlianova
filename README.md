@@ -1,8 +1,8 @@
 ### Hi there, I'm Anna! 👋
 
-🔭 I’m currently working on developing backend microservice modules for fintech company and here are some of my projects that i wrote at the beginning of my career as a java developer to get acquainted with technologies.
+🔭 I’m currently working on developing backend microservice modules for fintech company and here are some of my projects that I wrote at the beginning of my career as a java developer to get acquainted with technologies.
 
-RESTful APIs: Java EE, Spring (Core, Boot, Data), PostgreSQL, Hibernate, JUnit, Mockito, Docker, Maven
+RESTful APIs: Java EE, Spring (Core, Boot, Data), PostgreSQL, Hibernate, JUnit, Mockito, Docker, Maven.
 
 🌱 Using all these smart tools I am trying to write readable,
 testable and well maintainable source code using best
